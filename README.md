@@ -4,10 +4,10 @@
 Install node and npm
 
 ## Steps
-git clone git@github.com:micknolan/nodejs-http-starter.git
-cd nodejs-http-starter
-npm install
-npm start
+*git clone git@github.com:micknolan/nodejs-http-starter.git
+*cd nodejs-http-starter
+*npm install
+*npm start
 
 Launch http://localhost:8080/api/hello in web browser
 
